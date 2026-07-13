@@ -27,6 +27,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | CVE-2026-12089 | [WS Optimize – All-in-One Speed Booster & Cache Tools <= 3.3.19 - Authenticated (Editor+) Arbitrary File Read](./wordpress/plugins/lws-optimize/CVE-2026-12089/README.md) | WordPress        | WS Optimize – All-in-One Speed Booster & Cache Tools (plugin) | Arbitrary File Read   | Medium (4.9)        |
 | CVE-2026-15373 | [Eleveo Call Recording Software 9.7.0 userAddAction.do role Improper Authorization](./eleveo/call-recording-software/CVE-2026-15373/README.md)                            | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
 | CVE-2026-15374 | [Eleveo Call Recording Software 9.7.0 Group Interface roleAddAction.do Improper Authorization](./eleveo/call-recording-software/CVE-2026-15374/README.md)                 | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
+| CVE-2026-15375 | [Eleveo Call Recording Software 9.7.0 LDAP User Interface /callrec/users_ldap.jsp Improper Authorization](./eleveo/call-recording-software/CVE-2026-15375/README.md)      | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
 
 ## Repository layout
 
