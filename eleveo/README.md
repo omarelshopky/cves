@@ -12,6 +12,7 @@
 | CVE-2026-15470 | [Eleveo Call Recording Software 9.7.0 /callrec/group.jsp Improper Authorization](./call-recording-software/CVE-2026-15470/README.md)                          | Call Recording Software | Broken Access Control | Medium (5.3) |
 | CVE-2026-15471 | [Eleveo Call Recording Software 9.7.0 pci_dss_status.jsp Improper Authorization](./call-recording-software/CVE-2026-15471/README.md)                          | Call Recording Software | Broken Access Control | Medium (5.3) |
 | CVE-2026-15472 | [Eleveo Call Recording Software 9.7.0 composeEmailAction.do Improper Authorization](./call-recording-software/CVE-2026-15472/README.md)                       | Call Recording Software | Broken Access Control | Medium (5.3) |
+| CVE-2026-15473 | [Eleveo Call Recording Software 9.7.0 Recorded Calls Page restoreCallAction.do Improper Authorization](./call-recording-software/CVE-2026-15473/README.md)    | Call Recording Software | Broken Access Control | Medium (5.3) |
 
 ## Layout
 
