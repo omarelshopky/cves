@@ -9,6 +9,7 @@
 | CVE-2026-15375 | [Eleveo Call Recording Software 9.7.0 LDAP User Interface /callrec/users_ldap.jsp Improper Authorization](./call-recording-software/CVE-2026-15375/README.md) | Call Recording Software | Broken Access Control | Medium (5.3) |
 | CVE-2026-15376 | [Eleveo Call Recording Software 9.7.0 statisticReportAction.do Improper Authorization](./call-recording-software/CVE-2026-15376/README.md)                    | Call Recording Software | Broken Access Control | Medium (5.3) |
 | CVE-2026-15377 | [Eleveo Call Recording Software 9.7.0 /callrec/sendlogfile Improper Authorization](./call-recording-software/CVE-2026-15377/README.md)                        | Call Recording Software | Broken Access Control | Medium (5.3) |
+| CVE-2026-15470 | [Eleveo Call Recording Software 9.7.0 /callrec/group.jsp Improper Authorization](./call-recording-software/CVE-2026-15470/README.md)                          | Call Recording Software | Broken Access Control | Medium (5.3) |
 
 ## Layout
 
