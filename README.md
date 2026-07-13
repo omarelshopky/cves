@@ -34,6 +34,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | CVE-2026-15471 | [Eleveo Call Recording Software 9.7.0 pci_dss_status.jsp Improper Authorization](./eleveo/call-recording-software/CVE-2026-15471/README.md)                               | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
 | CVE-2026-15472 | [Eleveo Call Recording Software 9.7.0 composeEmailAction.do Improper Authorization](./eleveo/call-recording-software/CVE-2026-15472/README.md)                            | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
 | CVE-2026-15473 | [Eleveo Call Recording Software 9.7.0 Recorded Calls Page restoreCallAction.do Improper Authorization](./eleveo/call-recording-software/CVE-2026-15473/README.md)         | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
+| CVE-2026-15474 | [Eleveo Call Recording Software 9.7.0 /callrec/audio.jsp callId Improper Authorization](./eleveo/call-recording-software/CVE-2026-15474/README.md)                        | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
 
 ## Repository layout
 
