@@ -13,17 +13,19 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 > systems you do not own or are not explicitly authorized to test. Findings that are
 > still under embargo are **not** published here until disclosure is complete.
 
-## Ecosystems
+## Ecosystems/Vendors
 
-| Ecosystem | Findings | Index                               |
+| Ecosystem/Vendor | Findings | Index                               |
 | --------- | -------: | ----------------------------------- |
 | WordPress |        1 | [wordpress/](./wordpress/README.md) |
+| Eleveo    |       10 | [eleveo/](./eleveo/README.md)       |
 
 ## Master index
 
-| CVE            | Name                                                                                                                                                                      | Ecosystem | Component                                                     | Type                | Severity     |
+| CVE            | Name                                                                                                                                                                      | Ecosystem/Vendor | Component/Software                                                     | Type                | Severity (CVSS:4.0)    |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------- | ------------------- | ------------ |
 | CVE-2026-12089 | [WS Optimize – All-in-One Speed Booster & Cache Tools <= 3.3.19 - Authenticated (Editor+) Arbitrary File Read](./wordpress/plugins/lws-optimize/CVE-2026-12089/README.md) | WordPress | WS Optimize – All-in-One Speed Booster & Cache Tools (plugin) | Arbitrary File Read | Medium (4.9) |
+| CVE-2026-15373 | [Eleveo Call Recording Software 9.7.0 userAddAction.do role Improper Authorization](./eleveo/call-recording-software/CVE-2026-15373/README.md) | Eleveo | Call Recording Software | Broken Access Control | Medium (5.3) |
 
 ## Repository layout
 
