@@ -16,9 +16,9 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 ## Ecosystems/Vendors
 
 | Ecosystem/Vendor | Findings | Index                               |
-| --------- | -------: | ----------------------------------- |
-| WordPress |        1 | [wordpress/](./wordpress/README.md) |
-| Eleveo    |       10 | [eleveo/](./eleveo/README.md)       |
+| ---------------- | -------: | ----------------------------------- |
+| WordPress        |        2 | [wordpress/](./wordpress/README.md) |
+| Eleveo           |       10 | [eleveo/](./eleveo/README.md)       |
 
 ## Master index
 
@@ -35,6 +35,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | CVE-2026-15472 | [Eleveo Call Recording Software 9.7.0 composeEmailAction.do Improper Authorization](./eleveo/call-recording-software/CVE-2026-15472/README.md)                            | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
 | CVE-2026-15473 | [Eleveo Call Recording Software 9.7.0 Recorded Calls Page restoreCallAction.do Improper Authorization](./eleveo/call-recording-software/CVE-2026-15473/README.md)         | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
 | CVE-2026-15474 | [Eleveo Call Recording Software 9.7.0 /callrec/audio.jsp callId Improper Authorization](./eleveo/call-recording-software/CVE-2026-15474/README.md)                        | Eleveo           | Call Recording Software                                       | Broken Access Control | Medium (5.3)        |
+| CVE-2026-16042 | [LWS Optimize < 3.4 - Subscriber+ Cache Deletion](./wordpress/plugins/lws-optimize/CVE-2026-16042/README.md)                                                              | WordPress        | WS Optimize – All-in-One Speed Booster & Cache Tools (plugin) | Broken Access Control | Medium (4.3)        |
 
 ## Repository layout
 

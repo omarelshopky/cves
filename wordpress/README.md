@@ -4,9 +4,10 @@ WordPress findings, split by component type. See the [root index](../README.md) 
 
 ## Plugins
 
-| CVE            | Name                                                                                                                                                            | Plugin                                               | Slug           | Type                | Severity     |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------- | ------------------- | ------------ |
-| CVE-2026-12089 | [WS Optimize – All-in-One Speed Booster & Cache Tools <= 3.3.19 - Authenticated (Editor+) Arbitrary File Read](./plugins/lws-optimize/CVE-2026-12089/README.md) | WS Optimize – All-in-One Speed Booster & Cache Tools | `lws-optimize` | Arbitrary File Read | Medium (4.9) |
+| CVE            | Name                                                                                                                                                            | Plugin                                               | Slug           | Type                  | Severity     |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------- | --------------------- | ------------ |
+| CVE-2026-12089 | [WS Optimize – All-in-One Speed Booster & Cache Tools <= 3.3.19 - Authenticated (Editor+) Arbitrary File Read](./plugins/lws-optimize/CVE-2026-12089/README.md) | WS Optimize – All-in-One Speed Booster & Cache Tools | `lws-optimize` | Arbitrary File Read   | Medium (4.9) |
+| CVE-2026-16042 | [LWS Optimize < 3.4 - Subscriber+ Cache Deletion](./plugins/lws-optimize/CVE-2026-16042/README.md)                                                              | WS Optimize – All-in-One Speed Booster & Cache Tools | `lws-optimize` | Broken Access Control | Medium (4.3) |
 
 
 ## Themes
