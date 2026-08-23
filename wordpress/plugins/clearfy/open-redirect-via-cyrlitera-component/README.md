@@ -103,14 +103,16 @@ Update the plugin to version 2.4.3 or later.
 1. Setup WordPress environment with (PHP v8.2.29, MySQL 8.0.35, and WordPress 7.0)
 2. Clearfy Cache – WordPress optimization plugin, Minify HTML, CSS & JS, Defer plugin is installed
 3. From **Settings** > **Clearfy** > **Components**, activate **Transliteration of Cyrillic alphabet**
-![[clearfy-open-redirect-via-cyrlitera-component-1.png]]
+
+![poc-1](./screenshots/clearfy-open-redirect-via-cyrlitera-component-1.png)
 
 4. From **Settings** > **Clearfy** > **SEO** > **Transliteration**, enable **Redirection old URLs to new ones**
-![[clearfy-open-redirect-via-cyrlitera-component-2.png]]
+
+![poc-2](./screenshots/clearfy-open-redirect-via-cyrlitera-component-2.png)
 
 
 ## Steps to Reproduce
 
 Navigate to http://clearfy.local/%252Fevil.com, and observe the user will be redirected to evil.com
 
-![[clearfy-open-redirect-via-cyrlitera-component-3.png]]
+![poc-3](./screenshots/clearfy-open-redirect-via-cyrlitera-component-3.png)
