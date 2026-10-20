@@ -15,6 +15,7 @@
 | CVE-2026-15473 | [Eleveo Call Recording Software 9.7.0 Recorded Calls Page restoreCallAction.do Improper Authorization](./call-recording-software/CVE-2026-15473/README.md)    | Call Recording Software | Broken Access Control                | Medium (5.3) |
 | CVE-2026-15474 | [Eleveo Call Recording Software 9.7.0 /callrec/audio.jsp callId Improper Authorization](./call-recording-software/CVE-2026-15474/README.md)                   | Call Recording Software | Broken Access Control                | Medium (5.3) |
 | CVE-2026-85405 | [Eleveo Call Recording Software 9.7.0 Multiple Stored Cross-Site Scripting](./call-recording-software/CVE-2026-85405/README.md)                               | Call Recording Software | Multiple Stored Cross-Site Scripting | Medium (5.1) |
+| CVE-2026-85406 | [Eleveo Quality Management 9.7.0 Multiple Stored Cross-Site Scripting](./quality-management/CVE-2026-85406/README.md)                                         | Quality Management      | Multiple Stored Cross-Site Scripting | Medium (5.1) |
 
 ## Layout
 
