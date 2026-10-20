@@ -17,7 +17,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 
 | Ecosystem/Vendor |                     Findings | Index                               |
 | ---------------- | ---------------------------: | ----------------------------------- |
-| WordPress        | 7 (+1 duplicate) (+3 no cve) | [wordpress/](./wordpress/README.md) |
+| WordPress        | 7 (+2 duplicate) (+3 no cve) | [wordpress/](./wordpress/README.md) |
 | Eleveo           |                           10 | [eleveo/](./eleveo/README.md)       |
 
 ## Master index
@@ -45,6 +45,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | -                     | [Post and Page Builder by BoldGrid – Visual Drag and Drop Editor <= 1.27.10 - Contributor+ Stored Cross-Site Scripting via data-hover-bg-class, data-hover-image-url, data-hover-bg-overlaycolor, data-hover-bg-position, Attribute](./wordpress/plugins/post-and-page-builder/contributor-stored-xss-via-hover-attributes/README.md) | WordPress        | Post and Page Builder by BoldGrid – Visual Drag and Drop Editor             | Stored Cross-Site Scripting    | Medium (6.4)        |
 | CVE-2026-78068        | [Table Field Add-on for ACF and SCF <= 1.3.35 - Authenticated (Contributor+) Stored Cross-Site Scripting via Table Cell Content](./wordpress/plugins/advanced-custom-fields-table-field/CVE-2026-78068/README.md)                                                                                                                     | WordPress        | Table Field Add-on for ACF and SCF                                          | Stored Cross-Site Scripting    | Medium (6.4)        |
 | CVE-2026-87869        | [Filter Everything — WordPress & WooCommerce Filters <= 1.9.6 - Reflected Cross-Site Scripting via Elementor Posts Widget Pagination URL](./wordpress/plugins/filter-everything/CVE-2026-87869/README.md)                                                                                                                             | WordPress        | Filter Everything — WordPress & WooCommerce Filters                         | Reflected Cross-Site Scripting | Medium (6.1)        |
+| Dup of CVE-2026-66439 | [Advanced AJAX Product Filters <= 3.2.0.3 - Unauthenticated Reflected Cross-Site Scripting](./wordpress/plugins/woocommerce-ajax-filters/reflected-xss/README.md)                                                                                                                                                                     | WordPress        | Advanced AJAX Product Filters                                               | Reflected Cross-Site Scripting | High (7.2)          |
 
 ## Repository layout
 
