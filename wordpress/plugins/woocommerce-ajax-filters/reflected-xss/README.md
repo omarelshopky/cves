@@ -39,6 +39,8 @@ Unauthenticated
 
 ## PoC Video
 
+https://github.com/user-attachments/assets/80758013-39fd-47e0-965f-69e3d9da4f53
+
 
 ## References to Affected Code
 
