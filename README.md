@@ -17,7 +17,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 
 | Ecosystem/Vendor |         Findings | Index                               |
 | ---------------- | ---------------: | ----------------------------------- |
-| WordPress        | 6 (+1 duplicate) | [wordpress/](./wordpress/README.md) |
+| WordPress        | 7 (+1 duplicate) | [wordpress/](./wordpress/README.md) |
 | Eleveo           |               10 | [eleveo/](./eleveo/README.md)       |
 
 ## Master index
@@ -41,6 +41,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | Dup of CVE-2026-16296 | [Clearfy < 2.4.3 - Open Redirect via Cyrlitera 404 Handler](./wordpress/plugins/clearfy/open-redirect-via-cyrlitera-component/README.md)                                                                          | WordPress        | Clearfy Cache – WordPress optimization plugin, Minify HTML, CSS & JS, Defer | Open Redirect                  | Medium (4.7)        |
 | CVE-2026-78001        | [Post and Page Builder by BoldGrid <= 1.27.13 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'data-label' Attribute](./wordpress/plugins/post-and-page-builder/CVE-2026-78001/README.md)          | WordPress        | Post and Page Builder by BoldGrid – Visual Drag and Drop Editor             | Stored Cross-Site Scripting    | Medium (6.4)        |
 | CVE-2026-78068        | [Table Field Add-on for ACF and SCF <= 1.3.35 - Authenticated (Contributor+) Stored Cross-Site Scripting via Table Cell Content](./wordpress/plugins/advanced-custom-fields-table-field/CVE-2026-78068/README.md) | WordPress        | Table Field Add-on for ACF and SCF                                          | Stored Cross-Site Scripting    | Medium (6.4)        |
+| CVE-2026-87869        | [Filter Everything — WordPress & WooCommerce Filters <= 1.9.6 - Reflected Cross-Site Scripting via Elementor Posts Widget Pagination URL](./wordpress/plugins/filter-everything/CVE-2026-87869/README.md)         | WordPress        | Filter Everything — WordPress & WooCommerce Filters                         | Reflected Cross-Site Scripting | Medium (6.1)        |
 
 ## Repository layout
 
