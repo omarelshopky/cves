@@ -18,7 +18,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | Ecosystem/Vendor |                     Findings | Index                               |
 | ---------------- | ---------------------------: | ----------------------------------- |
 | WordPress        | 7 (+2 duplicate) (+3 no cve) | [wordpress/](./wordpress/README.md) |
-| Eleveo           |                           17 | [eleveo/](./eleveo/README.md)       |
+| Eleveo           |                           18 | [eleveo/](./eleveo/README.md)       |
 
 ## Master index
 
@@ -53,6 +53,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | CVE-2026-85409        | [Eleveo Quality Management 9.7.0 Arbitrary File Write](./eleveo/quality-management/CVE-2026-85409/README.md)                                                                                                                                                                                                                          | Eleveo           | Quality Management                                                          | Arbitrary File Write                              | Medium (5.3)        |
 | CVE-2026-101141       | [Eleveo Call Recording Software 9.7.0 Multiple Reflected Cross-Site Scripting](./eleveo/call-recording-software/CVE-2026-101141/README.md)                                                                                                                                                                                            | Eleveo           | Call Recording Software                                                     | Multiple Reflected Cross-Site Scripting           | Medium (5.1)        |
 | CVE-2026-101142       | [Eleveo Quality Management 9.7.0 Local File Disclosure and Arbitrary File Deletion](./eleveo/quality-management/CVE-2026-101142/README.md)                                                                                                                                                                                            | Eleveo           | Quality Management                                                          | Local File Disclosure and Arbitrary File Deletion | Medium (5.3)        |
+| CVE-2026-101143       | [Eleveo Quality Management 9.7.0 QMBODownload Information Disclosure](./eleveo/quality-management/CVE-2026-101143/README.md)                                                                                                                                                                                                          | Eleveo           | Quality Management                                                          | Information Disclosure                            | Medium (5.3)        |
 
 ## Repository layout
 
