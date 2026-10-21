@@ -24,6 +24,7 @@
 | CVE-2026-101143 | [Eleveo Quality Management 9.7.0 QMBODownload Information Disclosure](./quality-management/CVE-2026-101143/README.md)                                         | Quality Management      | Information Disclosure                            | Medium (5.3) |
 | CVE-2026-101144 | [Eleveo Call Recording Software 9.7.0 Query Builder searchAction.do Access Control](./call-recording-software/CVE-2026-101144/README.md)                      | Call Recording Software | Broken Access Control                             | Medium (5.3) |
 | CVE-2026-101145 | [Eleveo Call Recording Software 9.7.0 User Management userAddAction.do LDAP Injection](./call-recording-software/CVE-2026-101145/README.md)                   | Call Recording Software | LDAP Injection                                    | Medium (5.3) |
+| CVE-2026-101146 | [Eleveo Quality Management 9.7.0 Log Poisoning](./quality-management/CVE-2026-101146/README.md)                                                               | Quality Management      | Insecure Design / Log Poisoning                   | Medium (5.3) |
 
 ## Layout
 
