@@ -18,7 +18,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | Ecosystem/Vendor |                     Findings | Index                               |
 | ---------------- | ---------------------------: | ----------------------------------- |
 | WordPress        | 7 (+2 duplicate) (+3 no cve) | [wordpress/](./wordpress/README.md) |
-| Eleveo           |                           13 | [eleveo/](./eleveo/README.md)       |
+| Eleveo           |                           14 | [eleveo/](./eleveo/README.md)       |
 
 ## Master index
 
@@ -49,6 +49,7 @@ proof-of-concept, and supporting evidence (screenshots / recordings).
 | CVE-2026-85405        | [Eleveo Call Recording Software 9.7.0 Multiple Stored Cross-Site Scripting](./eleveo/call-recording-software/CVE-2026-85405/README.md)                                                                                                                                                                                                | Eleveo           | Call Recording Software                                                     | Multiple Stored Cross-Site Scripting | Medium (5.1)        |
 | CVE-2026-85406        | [Eleveo Quality Management 9.7.0 Multiple Stored Cross-Site Scripting](./eleveo/quality-management/CVE-2026-85406/README.md)                                                                                                                                                                                                          | Eleveo           | Quality Management                                                          | Multiple Stored Cross-Site Scripting | Medium (5.1)        |
 | CVE-2026-85407        | [Eleveo Quality Management 9.7.0 Conversation Events Denial of Service](./eleveo/quality-management/CVE-2026-85407/README.md)                                                                                                                                                                                                         | Eleveo           | Quality Management                                                          | Denial of Service                    | Medium (5.3)        |
+| CVE-2026-85408        | [Eleveo Quality Management 9.7.0 Conversation Events createdBy Dynamically-Determined Object Attributes](./eleveo/quality-management/CVE-2026-85408/README.md)                                                                                                                                                                        | Eleveo           | Quality Management                                                          | Mass Assignment                      | Medium (5.3)        |
 
 ## Repository layout
 

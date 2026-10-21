@@ -17,6 +17,7 @@
 | CVE-2026-85405 | [Eleveo Call Recording Software 9.7.0 Multiple Stored Cross-Site Scripting](./call-recording-software/CVE-2026-85405/README.md)                               | Call Recording Software | Multiple Stored Cross-Site Scripting | Medium (5.1) |
 | CVE-2026-85406 | [Eleveo Quality Management 9.7.0 Multiple Stored Cross-Site Scripting](./quality-management/CVE-2026-85406/README.md)                                         | Quality Management      | Multiple Stored Cross-Site Scripting | Medium (5.1) |
 | CVE-2026-85407 | [Eleveo Quality Management 9.7.0 Conversation Events Denial of Service](./quality-management/CVE-2026-85407/README.md)                                        | Quality Management      | Denial of Service                    | Medium (5.3) |
+| CVE-2026-85408 | [Eleveo Quality Management 9.7.0 Conversation Events createdBy Dynamically-Determined Object Attributes](./quality-management/CVE-2026-85408/README.md)       | Quality Management      | Mass Assignment                      | Medium (5.3) |
 
 ## Layout
 
